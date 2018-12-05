@@ -1,0 +1,38 @@
+{
+  "name": "msdos-pause",
+  "main": "index.js",
+  "version": "1.0.0",
+  "description": "Pause command of Microsoft DOS in JavaScript",
+  "author": {
+    "name": "Tiago Danin",
+    "email": "TiagoDanin@outlook.com",
+    "url": "https://TiagoDanin.github.io"
+  },
+  "license": "MIT",
+  "keywords": [
+    "script",
+    "bin",
+    "pause",
+    "msdos"
+  ],
+  "scripts": {},
+  "private": false,
+  "repository": "https://github.com/TiagoDanin/MSDOS-Pause.git",
+  "homepage": "https://TiagoDanin.github.io/MSDOS-Pause",
+  "bugs": "https://github.com/TiagoDanin/MSDOS-Pause/issues",
+  "github": {
+    "name": "MSDOS-Pause",
+    "owner": "TiagoDanin"
+  },
+  "files": [
+    "LICENSE",
+    "README.md",
+    "index.js",
+    "package.json"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "bin": {
+    "pause": "index.js"
+  }
+}
